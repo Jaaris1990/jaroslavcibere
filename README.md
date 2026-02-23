@@ -14,4 +14,4 @@ Učím sa fullstack development.
 - javascript
 
 ## 📫 Kontakt
-[LinkedIn]([tvoj-link](https://www.linkedin.com/in/jaroslav-cibere/)) • [Email](mailto:jaroslav.cibere@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jaroslav-cibere/) • [Email](mailto:jaroslav.cibere@gmail.com)
