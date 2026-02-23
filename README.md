@@ -1,4 +1,4 @@
-# Ahoj, som Jaro 👋
+# Ahoj, som Jaro!
 
 Učím sa fullstack development. 
 
