@@ -15,3 +15,5 @@ Učím sa fullstack development.
 
 ## 📫 Kontakt
 [LinkedIn](https://www.linkedin.com/in/jaroslav-cibere/) • [Email](mailto:jaroslav.cibere@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaaris1990&show_icons=true&theme=dark)
